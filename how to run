@@ -1,0 +1,11 @@
+To run the program you should:
+1. Put the all the files in the zip under the default path of gcl
+2. Under the gcl commond line, input (load "numbrix.lsp")
+3. Compile the file by input (compile-file "numbrix.lsp")
+4. After compiling the file, input (numbrix) to play the game.
+5. You need to choose play mode first. a for AI mode; h for human man-mode
+6. then you need to choose the board you want to play and input the board index.
+7. When solution finished and succeed, the result will display in the board.
+8. Then you will be asked to display the board after each step.
+9. And you will be asked to play again.
+Enjoy the game!
